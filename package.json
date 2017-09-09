@@ -1,0 +1,23 @@
+{
+  "name": "generative-music",
+  "version": "0.0.0",
+  "description": "Experiments in generative music",
+  "scripts": {
+   "build": "make",
+   "start": "npm run build && opn public/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jdormit/generative-music.git"
+  },
+  "author": "Jeremy Dormitzer <jeremy.dormitzer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdormit/generative-music/issues"
+  },
+  "homepage": "https://github.com/jdormit/generative-music#readme",
+  "devDependencies": {
+    "opn-cli": "^3.1.0",
+    "typescript": "^2.5.2"
+  }
+}
