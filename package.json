@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/jdormit/generative-music#readme",
   "devDependencies": {
-    "@types/webaudioapi": "0.0.27",
     "opn-cli": "^3.1.0",
     "typescript": "^2.5.2"
   }
